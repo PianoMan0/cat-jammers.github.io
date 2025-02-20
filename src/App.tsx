@@ -57,6 +57,8 @@ export function App() {
 					#sock
 				</a>
 				!! Join us for the fun!
+				<br>
+				What are we making? Probably a search engine, a piano simulator, or an online code editor.
 			</p>
 
 			<div className="carousel">
